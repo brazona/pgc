@@ -1,5 +1,5 @@
 {
-  "id": 4697439,
+  "id": 4698124,
   "name": "tag_default_rule",
   "target": "tag",
   "source_type": "Repository",
@@ -19,12 +19,6 @@
     },
     {
       "type": "non_fast_forward"
-    },
-    {
-      "type": "update"
-    },
-    {
-      "type": "creation"
     }
   ],
   "bypass_actors": [
