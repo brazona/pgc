@@ -1,5 +1,5 @@
 {
-  "id": 4697388,
+  "id": 4698123,
   "name": "branch_default_rule",
   "target": "branch",
   "source_type": "Repository",
@@ -21,9 +21,6 @@
     },
     {
       "type": "non_fast_forward"
-    },
-    {
-      "type": "update"
     },
     {
       "type": "pull_request",
